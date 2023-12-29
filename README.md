@@ -1,4 +1,6 @@
-# Experiment_Time_Table
+# EXPERIMENT-3
+
+# TIME TABLE
 
 ## AIM
 To Write a html webpage page to display your timetable.
