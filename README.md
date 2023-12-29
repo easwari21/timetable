@@ -5,7 +5,7 @@ To Write a html webpage page to display your timetable.
 
 # ALGORITHM
 ### STEP 1
-create a simple table using table tag
+Create a simple table using table tag
 ### STEP 2
 Add header row using th tag
 ### STEP 3
@@ -97,20 +97,6 @@ Execute the program
 <H3>3. 19MA222 - Probability and Queueing MOdels</H3>
 <H3>4. 19AI302 - Engineering Mechanics and Product Development</H3>
 <H3>5. 19EY701 - Soft Skills</H3>
-<center><br><br><div class="footer">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-12">
-              <div class="copyright-text">
-                <p>
-                  © 2023
-                  <a><u>Private Time Table.</u></a> 
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div></br></br></center>
 
       
    </body>
@@ -157,9 +143,10 @@ Execute the program
 ```
 
 # OUTPUT
-![Screenshot 2023-12-29 095321](https://github.com/easwari21/timetable/assets/131534979/b358af57-4a47-4893-b097-452c04c2b8d3)
 
-![Screenshot 2023-12-29 095256](https://github.com/easwari21/timetable/assets/131534979/a8d714de-30d3-4519-9206-3977966800ae)
+![Screenshot 2023-12-29 095321](https://github.com/easwari21/timetable/assets/131534979/bc210208-f71a-4fd2-af10-ab42ccea8589)
+![Screenshot 2023-12-29 134529](https://github.com/easwari21/timetable/assets/131534979/64e8ff97-894c-450c-920f-4783426e9034)
+![Screenshot 2023-12-29 134615](https://github.com/easwari21/timetable/assets/131534979/b3734657-fd00-4d8a-8b73-7ac92e16a869)
 
 # RESULT
 Time table is successfully created
