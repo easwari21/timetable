@@ -14,7 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE
-
+```
 <!DOCTYPE html>
 <html>
 <center>
@@ -154,6 +154,7 @@ Execute the program
     }
   </style>
 </html>
+```
 
 # OUTPUT
 ![Screenshot 2023-12-29 095321](https://github.com/easwari21/timetable/assets/131534979/b358af57-4a47-4893-b097-452c04c2b8d3)
