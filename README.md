@@ -147,6 +147,9 @@ Execute the program
 ![Screenshot 2023-12-29 095321](https://github.com/easwari21/timetable/assets/131534979/bc210208-f71a-4fd2-af10-ab42ccea8589)
 ![Screenshot 2023-12-29 134529](https://github.com/easwari21/timetable/assets/131534979/64e8ff97-894c-450c-920f-4783426e9034)
 ![Screenshot 2023-12-29 134615](https://github.com/easwari21/timetable/assets/131534979/b3734657-fd00-4d8a-8b73-7ac92e16a869)
+![Screenshot 2023-12-29 134630](https://github.com/easwari21/timetable/assets/131534979/e6a444c6-3c93-4063-a834-811bc4798009)
+![Screenshot 2023-12-29 134753](https://github.com/easwari21/timetable/assets/131534979/eb8ac7b3-e269-413a-8e4f-8e6631ff5a36)
 
 # RESULT
+
 Time table is successfully created
